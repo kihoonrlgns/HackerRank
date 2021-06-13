@@ -1,2 +1,1 @@
-# LeetCode
-sql practice
+# SQL
